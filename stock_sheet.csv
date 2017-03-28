@@ -381,8 +381,8 @@ WFP/GLOBAL RESERVE,Brindisi,Scale wheel load,B48233601,2
 WFP/CRS,Brindisi,"Individual kit, ""Rapid Response Team""",B95000102,16
 ECHO,Dubai,"Rope, polyprop., 8mm x 250mt, twisted",B36899401,1696
 NORWEGIAN CHURCH AID,Dubai,"Bladder tank, 20,000 L",B36959206,2
-WHO-HSE/GAR,Dubai,Surgical gown size Large,B36972909,7051
-WHO-HSE/GAR,Dubai,"Face shield Guardall, foam bad,full face",B36972913,32590
+WHO-HSE/GAR,Dubai,Surgical gown size Large,B36972909,6943
+WHO-HSE/GAR,Dubai,"Face shield Guardall, foam bad,full face",B36972913,32090
 WHO-HSE/GAR,Dubai,Heavy duty gloves-pack of 12,B36972930,1000
 WHO-HSE/GAR,Dubai,"Coverall,size XL white with elastic cuff",B36972937,7030
 WHO-HSE/GAR,Dubai,Boots size 44 (10) black with anti slip,B36972940,945
@@ -430,7 +430,7 @@ World Vision International,Dubai,"Sleeping bag, Synthetic, Women's",B27183003,4
 WFP/CRS,Brindisi,"Water tank, collapsible, 5000lt, w/harn",B36956001,8
 WFP/GLOBAL RESERVE,Brindisi,"Chair, executive, gas lift, wheeled",B38114703,418
 World Vision International,Dubai,"Water Filter, Katadyne Drip",B36949202,44
-WHO-HSE/GAR,Dubai,Surgical gown size Medium,B36972907,2248
+WHO-HSE/GAR,Dubai,Surgical gown size Medium,B36972907,1848
 WHO-HSE/GAR,Dubai,Surgical gown size XL,B36972908,14796
 WHO-HSE/GAR,Dubai,"Mask, Surgical,disposable, box of 50 pcs",B36972910,39100
 WHO-HSE/GAR,Dubai,Fog shiled 12oz XP cleaning  ( B/L 77 ),B36972921,140
@@ -665,7 +665,7 @@ CARE,Dubai,"DPD 1, Rapid, 250 tab(Chlorine test)",B43947911,342
 WFP/CRS,Accra,"Generator, diesel, 16 Kva, wheel-mount.",B46116319,6
 Australian Aid Program,Subang,"Prefab, wareh, soft wall, 10x24 ALU, G",B27169708,2
 WFP/CRS,Accra,"Prefab, wareh, soft wall, 10X24 ALU,2D O",B27169709,6
-WFP/CRS,Accra,"Prefab, wareh, soft wall, 10x32 ALU,2D O",B27169805,6
+WFP/CRS,Accra,"Prefab, wareh, soft wall, 10x32 ALU,2D O",B27169805,14
 ShelterBox,Subang,"Rope, polyprop., 8mm x 250mt, twisted",B36899401,125
 WFP/CRS,Subang,"Water tank, collapsible, 5000lt, w/ramp",B36951202,2
 AHA CENTRE,Subang,"Toolkit, shelter",B42925105,2
@@ -689,7 +689,7 @@ World Vision International,Dubai,"Spare Parts Kit, 4x4 Toyota Hilux RH",B4916253
 NORWEGIAN CHURCH AID,Dubai,"Prefab, wareh. soft wall,6.5x8mt, ALU O",B27169602,2
 IRISH AID,Subang,"Tent, family, tunnel shape",B27163222,400
 Australian Aid Program,Subang,Container 20',B49221301,6
-WFP/CRS,Dubai,"Prefab, wareh, soft wall, 10x32 ALU,2D O",B27169805,27
+WFP/CRS,Dubai,"Prefab, wareh, soft wall, 10x32 ALU,2D O",B27169805,37
 WHO-HSE/GAR,Dubai,"Biopack 2 , 1.5L",B36899601,751
 World Vision International,Dubai,"Blanket, fleece, medium thermal resist",B27112401,10000
 OCHA/RDS,Brindisi,"Vehicle, Armour, LC 76, diesel, LHD, VR7",B49162531,1
@@ -760,13 +760,13 @@ AHA CENTRE,Subang,"Prefab, wareh, soft wall, 10x24 ALU, G",B27169708,4
 Australian Aid Program,Subang,"Shelter, repair kit",B27163207,1000
 AHA CENTRE,Subang,"Boat, Aluminium, 6-8 people, with engine",B86315102,3
 UNICEF SD,Accra,"Mosquito net, 75d, 190x180x150 cm",B27321505,10000
-White Stock,Dubai,"Prefab, wareh, soft wall, 10x32 ALU,2D O",B27169805,1
-White Stock,Dubai,Container 20',B49221301,2
+White Stock,Dubai,"Prefab, wareh, soft wall, 10x32 ALU,2D O",B27169805,21
+White Stock,Dubai,Container 20',B49221301,1
 WFP/CRS,Brindisi,"Electrical kit, 110 v",B46214005,1
 White Stock,Dubai,"Office, accommodation unit, hard wall E",B38713304,6
 White Stock,Dubai,Air cond. for prefabricated bldg E,B38713308,13
 ACH,Panama,Deep meter,B48294001,1
-WFP/CRS,Dubai,"Prefab, wareh, soft wall, 10X24 ALU,2D O",B27169709,11
+WFP/CRS,Dubai,"Prefab, wareh, soft wall, 10X24 ALU,2D O",B27169709,21
 WFP/CRS,Panama,"Boat, aluminium, 6-8 people",B49441001,4
 UNICEF SD,Accra,"Water Tank, collapsible 6000 lt",B36959224,5
 UNICEF SD,Accra,"Water Tank, collapsible 10000 lt",B36959225,10
@@ -824,7 +824,7 @@ WFP/RB Asia Bureau,Subang,"Office, accommodation unit, hard wall E",B38713304,1
 WFP/RB Asia Bureau,Subang,Air cond. for prefabricated bldg E,B38713308,1
 ITALY,Brindisi,"Water purification unit, 4cu.m/hrs",B43942003,4
 LUTHERAN WORLD RELIEF,Dubai,"Blanket, quilts, various size",B27112016,12375
-White Stock,Dubai,"Prefab, wareh, soft wall, 10X24 ALU,2D O",B27169709,36
+White Stock,Dubai,"Prefab, wareh, soft wall, 10X24 ALU,2D O",B27169709,26
 ECHO,Dubai,"Tent, family, tunnel shape",B27163222,504
 NORWAY/OCHA,Brindisi,"Tarpaulin, woven plastic, 4x60mt",B27161602,4
 SHANGHAI YANGFAN INDUSTRIAL CO.LTD,Dubai,"Tent, family, tunnel shape",B27163222,86
@@ -893,7 +893,7 @@ World Vision International,Dubai,V- SAT Tool Kit,B46740002,1
 WFP/CRS,Subang,"Pallet, plastic, 1.2x0.8mt, reinforced",B36999104,560
 WHO-HSE/GAR,Dubai,"Face mask Type FFP2, NR D, box 50 pieces",B36972958,636
 WHO-HSE/GAR,Dubai,"Heavy, gloves, pair",B36973301,15763
-WHO-HSE/GAR,Dubai,"VFlex Respirator 9105 , N95 Bx/50 pcs",B36973701,588
+WHO-HSE/GAR,Dubai,"VFlex Respirator 9105 , N95 Bx/50 pcs",B36973701,528
 WFP/CRS,Accra,"Ablution unit, prefab., hard wall E",B38713303,1
 INTERNATIONAL RESCUE COMMITTEE,Dubai,"Team kit, (base camp)",B27160002,1
 INTERNATIONAL RESCUE COMMITTEE,Dubai,IT kit for office,B46711301,1
@@ -919,3 +919,148 @@ WHO-EMRO (EHA),Dubai,"Generator, diesel, 45 Kva, model PM45C",B46116322,3
 WHO-EMRO (EHA),Dubai,"Generator, diesel, 60 Kva, model PM60C",B46116324,4
 Concern Worldwide,Dubai,"Prefab, wareh, soft wall, 10X24 ALU,2D O",B27169709,1
 ACTION CONTRE LA FAIM,Dubai,Dewatering pump Kit,B43220019,1
+ACTION CONTRE LA FAIM,Dubai,"Tarpaulin, plastic, 6x8 mt",B27161620,270
+ACTION CONTRE LA FAIM,Dubai,"Emergency kit, Office, 8 people",B27169006,2
+ACTION CONTRE LA FAIM,Dubai,"Safety fence, kit",B31692301,8
+ACTION CONTRE LA FAIM,Dubai,Sodium Dichlorolsocyan. Dihydrate(NaDCC),B34238301,24
+ACTION CONTRE LA FAIM,Dubai,"Kit Motor Pump Pressuere Diesel, 62 m3/h",B43220009,4
+ACTION CONTRE LA FAIM,Dubai, Kit Motor Pump petrol engine 36 m3/h,B43220016,10
+ACTION CONTRE LA FAIM,Dubai,"Consumables kit,motor pump,petrol,35m3/h",B43220022,2
+ACTION CONTRE LA FAIM,Dubai,"Consumables kit,motor pump,Diesel,60m3/h",B43220023,2
+ACTION CONTRE LA FAIM,Dubai,"Chloration, dosing kit",B43942024,1
+HANDICAP INTERNATIONAL FEDERATION,Dubai,"Tent, multipurpose, 45 m�",B27163215,8
+WHO-HSE/GAR,Dubai,"Cape Hood , 50 pcs",B36971201,479
+WFP/CRS,Subang,"Generator, diesel, 16 Kva, wheel-mount.",B46116319,11
+Australian Aid Program,Subang,"Lighting equipment, telesc., 5 Kva",B46530024,2
+WFP/CRS,Subang,"Scale, warehouse, digital, 600 kg",B48233007,9
+WFP/RB Asia Bureau,Subang,"Lighting equipment, telesc., 5 Kva",B46530024,2
+SAVE THE CHILDREN,Dubai,"Tarpaulin, woven plastic, 4x6mt",B27161601,4480
+SAVE THE CHILDREN,Dubai,"Tarpaulin, woven plastic, 4x60mt",B27161602,30
+SAVE THE CHILDREN,Dubai,"Bladder, Trucking Kit, 6000lt",B36951401,2
+SAVE THE CHILDREN,Dubai,Kit Onion Tank 30 M3,B36959215,1
+SAVE THE CHILDREN,Dubai,Ground Bladder Tank kit 10M3,B36959228,8
+SAVE THE CHILDREN,Dubai,Latrine Digging Kit,B38831021,2
+SAVE THE CHILDREN,Dubai,"Buckets, 14L with Handle & Lid",B42912015,2500
+SAVE THE CHILDREN,Dubai,"Tool Kit, Engineers",B42925506,5
+SAVE THE CHILDREN,Dubai,Solid Waste Cleaning Material Kit,B42925507,10
+ACTION CONTRE LA FAIM,Dubai,Water Treatment Unit - Part B 3510,B43942043,1
+ACTION CONTRE LA FAIM,Dubai,Water Treatment Unit - Part  C 3520,B43942044,1
+ACTION CONTRE LA FAIM,Dubai,"Net, shadow kit",B48367301,3
+SHANGHAI YANGFAN INDUSTRIAL CO.LTD,Subang,"Tent, family, tunnel shape",B27163222,180
+AHA CENTRE,Subang,"Tent, multipurpose, 16 sq.m. (4x4mt)",B27163005,2
+CARE,Dubai,"Bladder Tank, 5000L",B36959205,1
+CARE,Dubai,"Water purification unit, 4cu.m/hrs,Emwat",B43942002,2
+WFP/CRS,Brindisi,"Prefab, wareh, soft wall, 10x32 ALU,2D O",B27169805,23
+SAVE THE CHILDREN,Dubai,Submersible Pump kit Grundfos SQ5-70,B43220025,1
+SAVE THE CHILDREN,Dubai,Generator 6KVA SSD6000 Stephill,B46114205,2
+SAVE THE CHILDREN,Dubai,Survey Auger KIT,B48270001,1
+White Stock,Brindisi,"Conference Room, small, E",B38713306,1
+OCHA/RDS,Dubai,"Pedestal, drawer, for prefabricated bldg",B38713203,12
+OCHA/RDS,Dubai,"Cupboard, for prefabricated bldg",B38713204,6
+OCHA/RDS,Dubai,"Desk, folding, for prefabricated bldg",B38713205,12
+OCHA/RDS,Dubai,"Chair, gas lift, for prefabricated bldg",B38713206,12
+OCHA/RDS,Dubai,"Cabinet, filing, for prefabricated bldg",B38713207,6
+OCHA/RDS,Dubai,"Table, folding for prefabricated bldg",B38713209,6
+OCHA/RDS,Dubai,"Bunk bed, for prefabricated bldg",B38713403,6
+OCHA/RDS,Dubai,"Mattress, for prefabricated bldg",B38713404,12
+OCHA/RDS,Dubai,"Wardrobe, for prefabricated bldg",B38713405,6
+OCHA/RDS,Dubai,"Chair, folding, for prefabricated bldg",B38713406,24
+World Vision International,Dubai,"Jerry can, collapsible,w/screw cap,10lt",B36949102,15000
+White Stock,Brindisi,Expansion kit for prefabricated bldg E,B38713309,8
+AHA CENTRE,Subang,"Generator, diesel, 16 Kva, wheel-mount.",B46116319,4
+World Vision International,Dubai,Hygiene Kit without Condom,B36221217,457
+White Stock,Brindisi,"Prefab, wareh. soft wall,6.5x8mt, ALU O",B27169602,5
+WFP/CRS,Brindisi,"Living, accommodation unit, hard wall E",B38713305,18
+Australian Aid Program,Subang,"Generator, diesel, 16 Kva, wheel-mount.",B46116319,2
+AHA CENTRE,Subang,"Lighting system, indoor, for MSU (G)",B46530022,8
+AHA CENTRE,Subang,"Lighting system, outdoor, for MSU (G)",B46530023,8
+White Stock,Accra,"Prefab, wareh, soft wall, 10x32 ALU,2D O",B27169805,6
+WFP/CRS,Panama,"Prefab, wareh, soft wall, 10x32 ALU,2D O",B27169805,3
+JICA,Accra,"Jerry can,semi-collaps.w/screw cap,10lt.",B36949104,1500
+UNAMA,Dubai,"Vehicle, Toyota, RAV4, petrol, LHD",B49162101,1
+UNITED STATES AGENCY for INTL. DEVELOPM.,Subang,"Tarpaulin, woven plastic, 4x60mt",B27161602,460
+UNITED STATES AGENCY for INTL. DEVELOPM.,Subang,"Hygiene Kit, USAID",B36221227,4000
+UNITED STATES AGENCY for INTL. DEVELOPM.,Subang,"Jerry can, collapsible,w/screw cap,10lt",B36949102,8400
+SAVE THE CHILDREN,Dubai,"Tent, multipurpose, 32 sq.m approx",B27163001,20
+SAVE THE CHILDREN,Dubai,"Tent, multipurpose, 45 m�",B27163215,18
+SHANGHAI YANGFAN INDUSTRIAL CO.LTD,Las Palmas,"Tent, family, tunnel shape",B27163222,60
+IRISH AID,Subang,"Jerry can,semi-collaps.w/screw cap,10lt.",B36949104,9000
+White Stock,Subang,Kitchen Sets Type B,B42912006,1468
+UNICEF TACRO,Panama,"Water Tank, collapsible 6cu.m.",B36956106,3
+UNDP,Dubai,"Work/Combat Trouser Size 30"" small",B28237501,25
+UNDP,Dubai,"Work/Combat Trouser Size 32"" medium",B28237502,100
+UNDP,Dubai,"Work/Combat Trouser Size 34"" large",B28237503,200
+UNDP,Dubai,"Work/Combat Trouser Size 36"" x-large",B28237504,175
+SAVE THE CHILDREN,Dubai,"Generator, Petrol 6.5Kva 6500HMS with sp",B46115002,2
+HANDICAP INTERNATIONAL FEDERATION,Dubai,Orthosis kit,B48710601,3
+TECHNO TARP & POLYMERS PVT LTD,Accra,"Tarpaulin, woven plastic, 4x6mt",B27161601,1970
+AHA CENTRE,Subang,"Tent, Lightweight, Inflatable, 28m2",B27163018,4
+AHA CENTRE,Subang,"Tent, Lightweight, Inflatable, 41m2",B27163019,6
+AHA CENTRE,Subang,"Kitchen set, 5 persons, with AHA logo",B42918701,1584
+UNDP,Dubai,"High visibility Vest, UNDP logo, size M",B36974602,125
+UNDP,Dubai,"High visibility Vest, UNDP logo, size L",B36974603,200
+UNDP,Dubai,"High visibility Vest, UNDP logo, size XL",B36974604,175
+UNDP,Dubai,"Sledge Hammer, 10LB, Hickory Shaft",B42941402,100
+WHO-EMRO (EHA),Dubai,"Mixtard 30, Susp., 100IU/ML, 10ml Vial",B35740004,50000
+WHO-EMRO (EHA),Dubai,"Insulatard, Susp., 100IU/ML, 10ml Vial",B35740005,15000
+WFP/CRS,Brindisi,"Office/Living, accom. unit, hard wall B",B38713310,4
+WFP/CRS,Brindisi,"Ablution unit, Prefab., hard wall B",B38713311,1
+WFP/CRS,Brindisi,Tool kit for prefab. B,B42925508,3
+WHO-HSE/GAR/USAID GLOBAL STOCKPILE,Dubai,"Scrubs pants, size Large, reusable",B36994501,7000
+WHO-HSE/GAR/USAID GLOBAL STOCKPILE,Dubai,"Scrubs pants, size Medium, reusable",B36994502,7000
+WHO-HSE/GAR/USAID GLOBAL STOCKPILE,Dubai,"Scrubs tops, size Large, reusable",B36994503,7000
+WHO-HSE/GAR/USAID GLOBAL STOCKPILE,Dubai,"Scrubs tops, size Medium, reusable",B36994504,7000
+VESTERGAARD Group AS,Dubai,"Mosquito net, 75d, 160x180x150 cm",B27321502,5900
+CARE,Dubai,"Starter Pack, 200 Test Coliform",B43947006,1
+WHO-EMRO (EHA),Dubai,"Vehicle,Armor,LC200,petrol,LHD,VR7+tires",B49182602,2
+WFP/OMF,Brindisi,"Ballistic Vest w/WFP logo, Size XXL",B38811026,5
+WFP/OMF,Brindisi,"Ballistic Vest w/WFP logo, Size XXXL",B38811033,2
+White Stock,Accra,"Blanket, fleece, medium thermal resist",B27112401,5440
+CARE,Dubai,"Pad, sanitary, feminine",B36232002,1000
+World Vision International,Subang,"Child friendly spaces kit, (CFS) WVI",B47765001,10
+RELIEF SUPPLIER,Las Palmas,Blanket 50% wool 50% synthetic fibers,B27112002,1950
+JICA,Accra,"Tarpaulin, woven plastic, 4x6mt",B27161601,70
+White Stock,Dubai,"Water tank, collapsible,10000lt,w/ramp",B36959202,20
+White Stock,Subang,"Water tank, collapsible, 5000lt, w/harn",B36956001,13
+IRISH AID,Subang,"Tarpaulin, woven plastic, 4x6mt",B27161601,2000
+WHO-HSE/GAR/USAID GLOBAL STOCKPILE,Dubai,"Hand Sanitizer, Alcohol- Based, 100ml",B35640001,7000
+UNICEF TACRO,Panama,Water floc. & disinfectant,B35667139,50
+UNICEF TACRO,Panama,"Pad, sanitary, feminine",B36232002,500
+UNICEF TACRO,Panama,"Portable stadiometer, measuring scale",B48232803,30
+UNICEF TACRO,Panama,"Weighing Scale, Digital",B48233004,70
+UNICEF TACRO,Panama,Insertion tape for measuring arm (MUAC),B48235001,200
+SAVE THE CHILDREN,Brindisi,EHU_PHC_Medical_NEP,B35010002,1
+CARE,Dubai,Soap bar,B36221200,23550
+WHO-HSE/GAR,Dubai,"Jerry can, collapsible,w/screw cap,10lt",B36949102,20000
+ITALY,Brindisi,"Roll, plastic, 4x60mt",B27161001,207
+ITALY,Brindisi,"Tent, for cold climate, 32sq.m. Ferrino",B27163202,7
+ITALY,Brindisi,"Water tank, collapsible, 1000lt,w/ramp",B36959201,3
+ITALY,Brindisi,"Generator, diesel, 5 Kva, I",B46114202,2
+ITALY,Brindisi,"Generator, diesel, 18 Kva, with lamp.",B46116315,17
+SAVE THE CHILDREN,Dubai,"Jerry can, collapsible,w/screw cap,10lt",B36949102,3500
+WFP/CRS,Dubai,"Individual kit,NEW ""Rapid Response Team""",B36232001,100
+ShelterBox,Las Palmas,"Midi Tent, with Shelterbox logo",B27163212,532
+ShelterBox,Las Palmas,"Family kit, with Shelterbox logo",B95000115,324
+PHOENIX TRADING & CONSULTING,Accra,"Kitchen set, family type, 5 persons",B42912003,656
+ITALY,Brindisi,"Generator, diesel, 8 Kva, C",B46116204,12
+HANDICAP INTERNATIONAL FEDERATION,Dubai,Supportive Seating (rolling frame for Mo,B48725001,6
+HANDICAP INTERNATIONAL FEDERATION,Dubai,"Supportive Seat, size L",B48725002,3
+HANDICAP INTERNATIONAL FEDERATION,Dubai,"Supportive Seat, size M",B48725003,3
+HANDICAP INTERNATIONAL FEDERATION,Dubai,"Supportive Seat, size CHILD",B48725004,2
+HANDICAP INTERNATIONAL FEDERATION,Dubai,"Rough Terrain Wheelchair, size XL",B48725005,2
+HANDICAP INTERNATIONAL FEDERATION,Dubai,"Rough Terrain Wheelchair, size L",B48725006,3
+HANDICAP INTERNATIONAL FEDERATION,Dubai,"Rough Terrain Wheelchair, size M",B48725007,3
+HANDICAP INTERNATIONAL FEDERATION,Dubai,"Rough Terrain Wheelchair, size S",B48725008,3
+HANDICAP INTERNATIONAL FEDERATION,Dubai,Standard wheelchair size XL,B48725009,25
+WFP/ Cash-Based Transfer,Dubai,"Tarpaulin, woven plastic, 4x6mt",B27161601,32
+PROMENS PACKING GMBH,Accra,"Jerry can,semi-collaps.w/screw cap,10lt.",B36949104,12400
+WFP/ Cash-Based Transfer,Dubai,"Gazebo Tent, 3 x 3 mt",B27162002,2
+WFP/ Cash-Based Transfer,Dubai,"Solar LED lamp, with charger",B46534603,24
+WHO- EMO-OSL/Polio Response,Accra,Interag Emerg Health Kit SUPPL. for MAL.,B35667104,1
+WHO- EMO-OSL/Polio Response,Accra,Interag Emerg Health Kit BASIC for MAL.,B35667105,10
+WHO- EMO-OSL/Polio Response,Accra,Interag Emerg Health Kit 06 PEP MODULE,B35667110,1
+HANDICAP INTERNATIONAL FEDERATION,Dubai,Standard wheelchair size L,B48725010,30
+HANDICAP INTERNATIONAL FEDERATION,Dubai,Standard wheelchair size M,B48725011,25
+HANDICAP INTERNATIONAL FEDERATION,Dubai,Standard wheelchair size S,B48725012,20
+RELIEF SUPPLIER,Accra,Blanket 50% wool 50% synthetic fibers,B27112002,2325
+VESTERGAARD Group AS,Subang,"Mosquito net, 100d, 190x180x150 cm",B27321504,13400

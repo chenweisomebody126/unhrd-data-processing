@@ -41,5 +41,8 @@ item_location_df= pd.pivot_table(stock_multiplier_df,index=["Critical_Item"],val
                columns=["Location"],aggfunc=[np.sum],fill_value=0,dropna= False)
 #remove the first two level of indexs to match the format
 item_location_df.columns = item_location_df.columns.droplevel([0,1])
+#
+item_location_df.columns.name=None
+item_location_df.reset_index(inplace=True)
 #save output table in csv format
 item_location_df.to_csv("./output.csv")
