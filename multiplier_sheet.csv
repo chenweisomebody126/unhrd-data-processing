@@ -1,0 +1,107 @@
+Critical_Item,Item_Code,Multiplier
+Alcohol-based hand rub,0,0
+Ambulance with Air isolation system for transport of contagious patients,0,0
+Antitoxin (BAT),0,0
+"Aprons, disposable",0,0
+"Aprons, heavy-duty, reusable",B36972943,1
+"Bag, disposable for biohazardous waste (PPE and clinical waste without sharps)",0,0
+Bed nets,B27321501,1
+Bed nets,B27321504,1
+Bed nets,B27321502,1
+Bed nets,B27321505,1
+Body bags (suitable for burial or cremation),B38831001,1
+Body bags (suitable for burial or cremation),B38831007,1
+Body bags (suitable for burial or cremation),B38831009,1
+Body bags (suitable for burial or cremation),B38831010,1
+"Boots, rubber ",B29531001,1
+"Boots, rubber ",B36972941,1
+"Boots, rubber ",B36972942,1
+"Boots, rubber ",B36972940,1
+"Chemicals: Malathion, Pyrethroid (Permethrin, Deltamethrin) ",0,0
+Cholera beds,B38152001,1
+"Coveralls, fluid resistant, disposable,  with elastic wrists, ankles and hood ",B36972949,20
+"Coveralls, fluid resistant, disposable,  with elastic wrists, ankles and hood ",B36972950,20
+"Coveralls, fluid resistant, disposable,  with elastic wrists, ankles and hood ",B36972951,20
+"Coveralls, fluid resistant, disposable,  with elastic wrists, ankles and hood ",B36972964,1
+"Coveralls, fluid resistant, disposable,  with elastic wrists, ankles and hood ",B36972938,1
+"Coveralls, fluid resistant, disposable,  with elastic wrists, ankles and hood ",B36972939,1
+"Coveralls, fluid resistant, disposable,  with elastic wrists, ankles and hood ",B36972937,1
+Dialysis equipment,0,0
+Drinking Water Quality Control Module,0,0
+ELISA and RT PCR Laboratory equipment and reagents,0,0
+Essential drugs and consumables to support general health facilities,0,0
+"Essential hospital and medical equipment to support health facilities: Adjustable hospital beds, examination table, foldable stretcher,Pulse oximeter, portable, isometer , stethoscope, sphygmomanometer",0,0
+Examination gloves,B36661102,100
+Examination gloves,B36661103,100
+Examination gloves,B36972916,100
+Examination gloves,B36972917,100
+Examination gloves,B36972931,1
+Examination gloves,B36972932,1
+Examination gloves,B36972933,1
+Examination gloves,B36972965,100
+Examination gloves,B36972966,100
+Examination gloves,B36972967,100
+Examination gloves,B36973302,50
+Examination gloves,B36973303,50
+Examination gloves,B36973304,50
+Examination gloves,B36994401,45
+Fogging machine ,0,0
+Full Face shield,B36972913,1
+"Gloves, Heavy Duty",B36972930,12
+"Gloves, Heavy Duty",B36973301,1
+Goggles,B36972929,1
+Goggles,B48314301,1
+Goggles,B48314302,1
+Goggles,B48314303,1
+"Gown, disposable, with elastic wrists",0,0
+"Gown, fluid resistant, disposable, with elastic wrists",B36972909,1
+"Gown, fluid resistant, disposable, with elastic wrists",B28272602,1
+"Gown, fluid resistant, disposable, with elastic wrists",B36972908,1
+"Gown, fluid resistant, disposable, with elastic wrists",B36972907,1
+Hood,B36971201,50
+Hood,B38151003,1
+Incinerators for contaminated wastes ,0,0
+Infrared thermometer,0,0
+Infusion (Ringer lactate - Lt),0,0
+Infusion giving set,0,0
+"Laryngoscope, adult, child set",0,0
+"Mask, surgical, flat rectangular with folds",0,0
+Medical Triage/Treatment/Isolation Facilities  ,0,0
+Mobile basic diagnostic x-ray system ,0,0
+NaDCC granules (kg),B43942039,1
+NaDCC granules (kg),B43942051,25
+NaDCC tablets,B34238301,1
+NaDCC tablets,B43942007,50
+NaDCC tablets,B43942023,1
+Neonatal/adult intensive-care ventilator,0,0
+Oral Rehydration Salts (ORS),B35881002,100
+Oral Rehydration Salts (ORS),B35667101,1
+Oxygen concentrators,0,0
+"Oxygen face mask with reservoir bag, disposable",0,0
+"Packaging transport substance, class 6.2",0,0
+"Pulse oximeter, portable",0,0
+Rapid diagnostic test for Dengue and Chikungunya and Zika,0,0
+Rapid diagnostic test kit for cholera,0,0
+Rapid Diagnostic testing kit for Malaria ,0,0
+Rapid test for Zaire Ebola Virus,0,0
+Refrigerated containers for cold chain purpose (immunization campaign),0,0
+Repellent (Individual set),0,0
+Rodent repellent treatment,0,0
+Safety Box / Sharps container (must be labelled biohazard),0,0
+Sample collection tubes,0,0
+"Scrubs, tops/pants",B36994501,1
+"Scrubs, tops/pants",B36994502,1
+Set: Hand gel and soap for targeted population  - Hemorrhagic fever ,0,0
+"Set: Mask, gel and soap for targeted population - air borne diseases ",0,0
+"Sprayer, backpack ",B43942016,1
+"Sprayer, hand, disinfectant, portable, small",B44161001,1
+Suction system,0,0
+Surgical N95 respirator,B36973701,50
+Swabs for buccal sample collection,B48197101,100
+Swabs for nasal sample collection,0,0
+"Syringe, re-use prevention (RUP) - 0.5 and 5 ml",B48180002,1
+"Syringe, re-use prevention (RUP) - 0.5 and 5 ml",B48182001,3000
+"Syringe, re-use prevention (RUP) - 0.5 and 5 ml",B48182002,2000
+"Syringe, re-use prevention (RUP) - 0.5 and 5 ml",B48183202,100
+Ultra Low Volume Sprayers ,0,0
+Water Tank Truck and/or water trailer for potable water,0,0
