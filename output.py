@@ -4,7 +4,7 @@
 import pandas as pd
 import numpy as np
 import os
-# if stock.sheet.csv exist, remove it first
+# if stock_sheet.csv exist, remove it first
 try:
     os.remove("./stock_sheet.csv")
 except OSError:
