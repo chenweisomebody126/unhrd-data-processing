@@ -4,6 +4,7 @@ class UNHRDSpider(scrapy.Spider):
     name = 'UNHRD'
     handle_httpstatus_list = [500]
     allowed_domains= ["unhrd.org"]
+    download_timeout = 360 #set timeout time 6 minutes
     start_urls = ['http://unhrd.org/page/real-time-stock-report-results?hub%5B%5D=GHHD&hub%5B%5D=ITHD&hub%5B%5D=DJHD&hub%5B%5D=AEHD&hub%5B%5D=ESHD&hub%5B%5D=PAHD&hub%5B%5D=MYHD']
 
     def parse(self, response):
